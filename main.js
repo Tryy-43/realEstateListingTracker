@@ -17,6 +17,7 @@ btnSubmit.addEventListener("click", () => {
       loading.classList.add("activeLoading");
     }, 400);
     setTimeout(() => {
+      loading.innerHTML = "";
       window.location.href = "data.html";
     }, 2600);
   } else {
