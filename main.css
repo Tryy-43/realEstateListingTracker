@@ -121,6 +121,9 @@
   cursor: pointer;
   transition: 0.2s ease;
 }
+.cursor {
+  cursor: pointer;
+}
 .cursor-poiter:hover {
   color: #ffffff !important;
   transform: translateX(5px);
