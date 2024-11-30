@@ -33,7 +33,7 @@ btnOut.addEventListener("click", () => {
   Swal.fire({
     title: "Ready to logout!",
     html: "it will close in <b></b> milliseconds.",
-    timer: 2000,
+    timer: 1500,
     timerProgressBar: true,
     didOpen: () => {
       Swal.showLoading();
