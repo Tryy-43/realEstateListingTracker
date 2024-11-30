@@ -52,11 +52,11 @@
 }
 
 .center {
-  height: 70px;
+  height: 60px;
 }
 .top,
 .button {
-  height: 50px;
+  height: 40px;
 }
 .top {
   border-bottom: 1px solid rgba(255, 255, 255, 0.461);
